@@ -5,3 +5,11 @@ It creates a hidden directory that stores the metadata to start the version cont
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area allows to preview the files that are to be commited. If you have a lot of files made at different times or with different status it helps to organize the project.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+The staging area allows to organize what are you trying to commit and to identify the changes between your changes and the master branch.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+To make an experimental feature or when trying something new in a code.
