@@ -17,3 +17,7 @@ To make an experimental feature or when trying something new in a code.
 How do the diagrams help you visualize the branch structure?
 
 Diagrams help to understand that there are some commits that are not in a branch that could no be reached if you don't have the ID. They also help to see where the different branches of the project start and end.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging two branches is one branch with the commits of both branches ordered by time and I final commit with the merged code. The diagram is represented like that due to the brance merging solution.
