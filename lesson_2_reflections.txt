@@ -21,3 +21,11 @@ Diagrams help to understand that there are some commits that are not in a branch
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result of merging two branches is one branch with the commits of both branches ordered by time and I final commit with the merged code. The diagram is represented like that due to the brance merging solution.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pros of Git's automatic merging is that is fast, if there are inconsistencies it helps by marking
+
+Cons is not smart enough.
+
+
