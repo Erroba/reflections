@@ -13,3 +13,7 @@ I wil use a fork when I would make an edition of a project and would like to giv
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 In order to avoid conflicts while merging or colaborating.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I could use email o some sharing docs service. However it could be difficult to authorize the changes or merge the projects.
